@@ -4,5 +4,6 @@ describe('template spec', () => {
     cy.get('#L2AGLb > .QS5gu').click()
     cy.get('#APjFqb').type('amazom.com')
     cy.get('.aajZCb > .lJ9FBc > center > .gNO89b').click()
+   ----- adding extra line-------
   })
 })
